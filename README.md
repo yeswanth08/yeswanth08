@@ -1,13 +1,11 @@
 
-<body style="background-image: url('https://shorturl.at/bhqIQ');">
-
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
   <h2 align="center">  I'm Yeswanth!
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 </p>
 
-<img align='right' src="https://cdn.iconscout.com/icon/free/png-256/free-code-280-460136.png?f=webp&amp;w=256" width="230">
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="230">
 
 **🐱 My GitHub Data** 
 
@@ -55,4 +53,3 @@ const Yeswanth:coder = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people 😊</em>
 ---
 
-</body>
